@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/org/simplewebapp/conn/MySQLConnUtils.java=UTF-8
+encoding//src/org/simplewebapp/conn/UploadToDBServlet.java=UTF-8
+encoding//src/org/simplewebapp/filter/CookieFilter.java=UTF-8
+encoding//src/org/simplewebapp/filter/JDBCFilter.java=UTF-8
+encoding//src/org/simplewebapp/servlet/CreateProductServlet.java=UTF-8
+encoding//src/org/simplewebapp/servlet/DeleteProductServlet.java=UTF-8
+encoding//src/org/simplewebapp/servlet/EditProductServlet.java=UTF-8
+encoding//src/org/simplewebapp/servlet/HomeServlet.java=UTF-8
+encoding//src/org/simplewebapp/servlet/LoginServlet.java=UTF-8
+encoding//src/org/simplewebapp/servlet/ProductListServlet.java=UTF-8
+encoding//src/org/simplewebapp/servlet/UploadFileServlet.java=UTF-8
+encoding//src/org/simplewebapp/servlet/UserInfoServlet.java=UTF-8
+encoding//src/org/simplewebapp/utils/MyUtils.java=UTF-8
